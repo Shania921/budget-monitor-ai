@@ -1,0 +1,6 @@
+{
+  "api_key": "",
+  "base_url": "https://api.openai.com/v1",
+  "model": "gpt-4o-mini",
+  "_comment": "复制本文件为 config.json 并填入 api_key 后，AI 归因简报将改由大模型生成；任何 OpenAI 兼容接口均可（如 DeepSeek/通义/智谱），改 base_url 与 model 即可。config.json 已被 .gitignore 排除，不会被提交。"
+}

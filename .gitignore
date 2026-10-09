@@ -1,0 +1,13 @@
+# 密钥与本地配置（禁止提交）
+config.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Excel 临时文件
+~$*.xlsx
+
+# 系统文件
+Thumbs.db
+.DS_Store
